@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658684773 source:c:\users\msi\documents\data structures modul\lesarvel\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
